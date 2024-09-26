@@ -1,0 +1,3 @@
+https://datacrystal.romhacking.net/wiki/Tetris_(Game_Boy):RAM_map
+https://gbdev.io/pandocs/Joypad_Input.html#ff00--p1joyp-joypad
+https://github.com/PWhiddy/PokemonRedExperiments

@@ -1,0 +1,7 @@
+Just score and lines with a downscaled image of the game + inputs => no progress after more than 1 day of training
+
+Replace everything in the model observation with just black and white, also change the downscaling algorithm => very clean input for model, probably made things better?
+
+Invalid input penalty => stopped doing inputs to avoid the penalty (this was predictable)
+
+Exponential reward based on how full a row is ( 2^number of blocks in row ) => result pending
